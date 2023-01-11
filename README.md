@@ -1,5 +1,8 @@
-### sup 
+## sup 
 - 💻 Studying comp sci
+- 🔑 Want to focus on practicing cybersecurity
+- 📕 Currently working on ✨studies✨
+- 😴 Your average guy that is interested in music and plays videogames aswell.
 - 🗣️ Can work either english or spanish speaking people
 - 😎 Feel free to talk to me about anything
 
