@@ -1,4 +1,7 @@
-### Hi there 👋
+### sup 
+- 💻 Studying comp sci
+- 🗣️ Can work either english or spanish speaking people
+- 😎 Feel free to talk to me about anything
 
 <!--
 **ElmerAFM/ElmerAFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
