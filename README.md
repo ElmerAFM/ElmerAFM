@@ -1,22 +1,12 @@
-## sup 
-- 💻 Studying comp sci
-- 🔑 Want to focus on practicing cybersecurity
-- 📕 Currently working on studies
-- 😴 Your average guy that is interested in music and plays videogames aswell.
-- 🗣️ Can work with either english or spanish speaking people
-- 😎 Feel free to talk to me about anything
+## Hi, I'm Elmer 👋
 
-<!--
-**ElmerAFM/ElmerAFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Senior Computer Science student with a focus on **Web Development**  
+- Proficient in **Python**, **JavaScript**, and **Django**  
+- Built academic projects like a **Student Employment Portal** and **eChecklist** (semester check-in platform)  
+- Completed the **AWS Cloud Foundations** course  
+- Interested in building reliable and secure web applications  
+- Bilingual: English & Spanish  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 📫 Email: elmerafm4@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/elmer-funez-0402691a5/)
